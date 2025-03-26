@@ -23,7 +23,7 @@ layout: page
 
 ## 教育背景
 
-- **2022/09 - 2025/06:** 绵阳师范学院资源与环境硕士
+- **2022/09 - 2025/06:** 绵阳师范学院（资源与环境硕士，Python构建水动力模型）
 - **2018/09 - 2022/06:** 四川大学锦江学院（工学学士，土木工程道路桥梁方向）
 
 ## 研究方向
@@ -34,6 +34,6 @@ layout: page
 
 - 熟练运用AE 、PR、PS、AU等音视频图片处理软件<font color='red'>（后期）</font>
 - 熟练使用Office办公软件<font color='red'>（办公）</font>
-- 熟悉Python<font color='red'>（二级）</font>、C++、C#编程语言<font color='red'>（学习中）</font>
+- 熟悉Python<font color='red'>（pandas、numpy、爬虫）</font>、R语言、C++/C#编程语言<font color='red'>（学习中）</font>
 - 熟练应用Revit、Twinmotion、Lumion等BIM相关软件<font color='red'>（建模渲染）</font>
 - 2020-2021学年运营四川大学锦江学院BIM协会“锦江BIM”公众号<font color='red'>（宣传）</font>并于2022年**学习**独立部署校园墙小程序
