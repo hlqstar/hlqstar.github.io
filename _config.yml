@@ -48,6 +48,8 @@ links:
   # url: /startups/
   - title: 实践实习
     url: /file/project-zh/
+  - title: 作品展示
+    url: /file/hobbies/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
