@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /file/awards-zh/index.html
-title: 个人奖项
+title: 奖项
 ---
 
 > 更新时间：2025/02/19

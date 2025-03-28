@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /file/project-zh/index.html
-title: 实习经历
+title: 实习
 ---
 
 > 更新时间：2025/02/19
