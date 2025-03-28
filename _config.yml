@@ -42,12 +42,14 @@ links:
   #   url: /publications/
   - title: 个人奖项
     url: /file/awards-zh/
-  - title: 作品展示
-    url: /file/hobbies/
+
   # - title: Startups
   # url: /startups/
   - title: 实践实习
     url: /file/project-zh/
+
+  - title: 作品展示
+    url: /file/hobbies/
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
