@@ -38,18 +38,18 @@ owner:
 links:
   - title: 基础信息
     url: /
-  - title: 作品展示
-    url: /file/hobbies-zh/    
   # - title: Publications
   #   url: /publications/
-  - title: 奖项
+  - title: 作品展示
     url: /file/awards-zh/
+
   # - title: Startups
   # url: /startups/
   - title: 实习
     url: /file/project-zh/
 
-
+  - title: 奖项
+    url: /file/hobbies-zh/
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones

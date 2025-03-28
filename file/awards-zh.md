@@ -4,24 +4,51 @@ permalink: /file/awards-zh/index.html
 title: 奖项
 ---
 
-> 更新时间：2025/02/19
+> 更新时间：2025/03/28
 
-## 综合奖学金
+## Python编写程序展示
 
-- 2024年09月：硕士研究生学业奖学金三等奖
-- 2023年09月：硕士研究生学业奖学金三等奖
-- 2019年09月：优秀学生奖学金三等奖
-- 2019年09月：国家励志奖学金
+<div style="position: relative; max-width: 800px; margin: 20px auto; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    src="//player.bilibili.com/player.html?isOutside=true&aid=114238395848572&bvid=BV1tzoDYBE56&cid=29108210686&p=1"
+    scrolling="no"
+    border="0"
+    frameborder="no"
+    framespacing="0"
+    allowfullscreen="true">
+  </iframe>
+</div>
+<p style="text-align:center; color:#666; font-size:0.9em;">（视频加载需要稍等片刻，如无法播放请<a href="https://www.bilibili.com/video/BV1tzoDYBE56" target="_blank">点击这里访问B站</a>）</p>
+<br>一维水动力模型Python实现
 
-## 科研竞赛
+<div style="position: relative; max-width: 800px; margin: 20px auto; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    src="//player.bilibili.com/player.html?isOutside=true&aid=114238093792928&bvid=BV1ocoQYpEqW&cid=29107357774&p=1&autoplay=false"
+    scrolling="no"
+    border="0"
+    frameborder="no"
+    framespacing="0"
+    allowfullscreen="true">
+  </iframe>
+</div>
+<p style="text-align:center; color:#666; font-size:0.9em;">（视频加载需要稍等片刻，如无法播放请<a href="https://www.bilibili.com/video/BV1ocoQYpEqW" target="_blank">点击这里访问B站</a>）</p>
+<br>Python自动提取发票号码程序
 
-- 2021年11月：第10届“龙图杯”全国BIM大赛院校组优秀奖
-- 2020年12月：四川大学锦江学院结构设计大赛二等奖；
-- 2020年11月：四川大学锦江学院“锦江杯”BIM建模竞赛 **<font color='red'>一等奖</font>**(**冠军**)
-- 2020年11月：四川省大学生BIM建模竞赛 **<font color='red'>一等奖</font>**(**冠军**)
+## 视频剪辑作品
 
-## 综合荣誉
+<div style="position: relative; max-width: 800px; margin: 20px auto; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    src="//player.bilibili.com/player.html?isOutside=true&aid=114237808580119&bvid=BV1y4oQYvExz&cid=29106176935&p=1&autoplay=false"
+    scrolling="no"
+    border="0"
+    frameborder="no"
+    framespacing="0"
+    allowfullscreen="true">
+  </iframe>
+</div>
+<p style="text-align:center; color:#666; font-size:0.9em;">（视频加载需要稍等片刻，如无法播放请<a href="https://www.bilibili.com/video/BV1y4oQYvExz" target="_blank">点击这里访问B站</a>）</p>
+<br>省赛一等奖BIM演示视频--某养老中心项目
 
-- 2023年12月：绵阳师范学院第一届研究生论坛 “优秀报告”
-- 2022年06月：四川大学锦江学院优秀毕业生
-- 2020年09月：四川大学锦江学院优秀共青团员
