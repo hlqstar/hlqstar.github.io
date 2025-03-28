@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /file/hobbies/index.html
+permalink: /file/hobbies-zh/index.html
 title: 作品展示
 ---
 
